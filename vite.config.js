@@ -1,4 +1,4 @@
 /** @type {import('vite').UserConfig} */
 export default {
-  base: "/<REPO>/",
+  base: "/learn-webgpu/",
 };
